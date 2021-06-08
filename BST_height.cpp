@@ -9,7 +9,7 @@ struct Node{
 
 int height(Node *root){
     if(root==NULL){
-        return 0;
+        return -1;
     }
     int lh=height(root->left);
     int rh=height(root->right);
