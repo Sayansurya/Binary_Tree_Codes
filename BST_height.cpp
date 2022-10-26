@@ -1,5 +1,5 @@
 #include <iostream>
-
+//errors removed
 using namespace std;
 struct Node{
     int data;
