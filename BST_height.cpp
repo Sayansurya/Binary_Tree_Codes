@@ -51,6 +51,7 @@ bool Search(Node* root, int data){
 int main()
 {
     int num;
+    int num1;
     Node* root=NULL;
     root=Insert(root,15);
     root=Insert(root,20);
