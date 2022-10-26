@@ -3,6 +3,7 @@ using namespace std;
 #define MAX_HEIGHT 100000
 
 // Tree Node
+// Node Structure
 struct Node {
     int data;
     Node *left;
